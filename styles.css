@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page1-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100vh;
+}
+
+.heading1 {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-size: 55px;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-left: 25px;
+    text-align: center;
+}
+
+.input-element {
+    width: 50vw;
+    height: 5vh;
+    border-radius: 10px;
+
+}
+
+.button1 {
+    background-color: #ab5aed;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    color: #ffffff;
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.display-score {
+    text-align: center;
+    color: red;
+    font-family: "Roboto";
+    font-size: 35px;
+    padding-top: 30px;
+}
+
+
+
+
+.bg-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100vh;
+}
+
+.main_heading {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-size: 55px;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+.para {
+    color: #3e4c59;
+    padding-left: 28px;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.image-1 {
+    height: 50px;
+    width: 50px;
+    margin-left: 28px;
+    margin-top: 15px;
+}
+
+.timer {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 35px;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+
+.container1 {
+    background-color: #f3eaff;
+    border-style: solid;
+    border-color: #9aa5b1;
+    border-radius: 10px;
+    margin-left: 28px;
+    margin-right: 28px;
+}
+
+.display_para {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
